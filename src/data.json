@@ -1,0 +1,405 @@
+{
+  "categories": [
+    { "name": "Adult",  "slug": "adult" },
+    { "name": "Mature",  "slug": "mature" },
+    { "name": "Puppy",  "slug": "puppy" }
+  ],
+  "products": [
+    {
+      "sku": "55947",
+      "name": "View Pro Plan Medium Adult with Optilife",
+      "href": "https://www.petstock.com.au/product/dog/pro-plan-medium-adult-with-optilife/55947",
+      "img": "https://www.petstock.com.au/images/cache/product_browse/images/products/59c9ea523a9da8.09657844.jpeg",
+      "salePrice": "84.00",
+      "retailPrice": "$99.99",
+      "category": "adult",
+      "saleimg":"https://www.petstock.com.au/images/promotional-discounts/5bea604819b982.76646425.png"
+    },
+
+    {
+      "sku": "49056",
+      "name": "View Royal Canin - Adult Labrador Retriever - Dry Dog Food",
+      "href": "https://www.petstock.com.au/product/dog/royal-canin-adult-labrador-retriever-dry-dog-food/49056",
+      "img": "https://www.petstock.com.au/images/cache/product_browse/images/products/59c9ea523a9da8.09657844.jpeg",
+      "salePrice": "84.00",
+      "retailPrice": "$99.99",
+      "category": "adult",
+      "saleimg":"https://www.petstock.com.au/images/promotional-discounts/5bea604819b982.76646425.png"
+
+    },
+    {
+      "sku": "51210",
+      "name": "View Supercoat Smartblend Adult Chicken Dry Dog Food",
+      "href": "https://www.petstock.com.au/product/dog/supercoat-smartblend-adult-chicken-dry-dog-food/51210",
+      "img": "https://www.petstock.com.au/images/cache/product_browse/images/products/59c9ea523a9da8.09657844.jpeg",
+      "salePrice": "",
+      "retailPrice": "$99.99",
+      "category": "adult",
+      "saleimg":""
+
+    },
+    {
+      "sku": "60188",
+      "name": "View Royal Canin - Maxi Junior - Large Breed - Dry Puppy Food",
+      "href": "https://www.petstock.com.au/product/dog/royal-canin-maxi-junior-large-breed-dry-puppy-food/60188",
+      "img": "https://www.petstock.com.au/images/cache/product_browse/images/products/59c9ea523a9da8.09657844.jpeg",
+      "salePrice": "",
+      "retailPrice": "$99.99",
+      "category": "puppy",
+      "saleimg":""
+
+    },
+    {
+      "sku": "54409",
+      "name": "View Advance - Adult All Breed - Chicken - Dry Dog Food",
+      "href": "https://www.petstock.com.au/product/dog/advance-adult-all-breed-chicken-dry-dog-food/54409",
+      "img": "https://www.petstock.com.au/images/cache/product_browse/images/products/59c9eb810bd755.16670049.jpeg",
+      "salePrice": "84.00",
+      "retailPrice": "$99.99",
+      "category": "adult",
+      "saleimg":"https://www.petstock.com.au/images/promotional-discounts/5bea604819b982.76646425.png"
+
+    },
+    {
+      "sku": "55553",
+      "name": "View Hill's Science Diet Adult Large Breed Dry Dog Food - 12kg",
+      "href": "https://www.petstock.com.au/product/dog/hill-s-science-diet-adult-large-breed-dry-dog-food-12kg/55553",
+      "img": "https://www.petstock.com.au/images/cache/product_browse/images/products/59c9eb810bd755.16670049.jpeg",
+      "salePrice": "84.00",
+      "retailPrice": "$99.99",
+      "category": "adult",
+      "saleimg":"https://www.petstock.com.au/images/promotional-discounts/5bea604819b982.76646425.png"
+
+    },
+    {
+      "sku": "60985",
+      "name": "View Glow Adult Australian Lamb",
+      "href": "https://www.petstock.com.au/product/dog/glow-adult-australian-lamb/60985",
+      "img": "https://www.petstock.com.au/images/cache/product_browse/images/products/59c9eb7beaeb01.37998812.jpeg",
+      "salePrice": "84.00",
+      "retailPrice": "$99.99",
+      "category": "adult",
+      "saleimg":"https://www.petstock.com.au/images/promotional-discounts/5bea604819b982.76646425.png"
+
+    },
+    {
+      "sku": "60981",
+      "name": "View Glow Adult Australian Chicken",
+      "href": "https://www.petstock.com.au/product/dog/glow-adult-australian-chicken/60981",
+      "img": "https://www.petstock.com.au/images/cache/product_browse/images/products/59c9eb7beaeb01.37998812.jpeg",
+      "salePrice": "84.00",
+      "retailPrice": "$99.99",
+      "category": "adult",
+      "saleimg":"https://www.petstock.com.au/images/promotional-discounts/5bea604819b982.76646425.png"
+
+    },
+    {
+      "sku": "60983",
+      "name": "View Glow Mature 7+ Australian Chicken",
+      "href": "https://www.petstock.com.au/product/dog/glow-mature-7-australian-chicken/60983",
+      "img": "https://www.petstock.com.au/images/cache/product_browse/images/products/59c9eb810bd755.16670049.jpeg",
+      "salePrice": "84.00",
+      "retailPrice": "$99.99",
+      "category": "mature",
+      "saleimg":"https://www.petstock.com.au/images/promotional-discounts/5bea604819b982.76646425.png"
+
+    },
+    {
+      "sku": "60979",
+      "name": "View Glow Puppy Australian Chicken",
+      "href": "https://www.petstock.com.au/product/dog/glow-puppy-australian-chicken/60979",
+      "img": "https://www.petstock.com.au/images/cache/product_browse/images/products/59c9eb810bd755.16670049.jpeg",
+      "salePrice": "84.00",
+      "retailPrice": "$99.99",
+      "category": "puppy",
+      "saleimg":"https://www.petstock.com.au/images/promotional-discounts/5bea604819b982.76646425.png"
+
+    },
+    {
+      "sku": "54422",
+      "name": "View Advance - Mature All Breed - Chicken - Dry Dog Food",
+      "href": "https://www.petstock.com.au/product/dog/advance-mature-all-breed-chicken-dry-dog-food/54422",
+      "img": "https://www.petstock.com.au/images/promotional-discounts/59cc9a2fe4e668.51448377.png",
+      "salePrice": "84.00",
+      "retailPrice": "$99.99",
+      "category": "mature",
+      "saleimg":"https://www.petstock.com.au/images/promotional-discounts/5bea604819b982.76646425.png"
+
+    },
+    {
+      "sku": "49083",
+      "name": "View Royal Canin - Maxi Junior - Large Breed - Dry Puppy Food",
+      "href": "https://www.petstock.com.au/product/dog/royal-canin-maxi-junior-large-breed-dry-puppy-food/49083",
+      "img": "https://www.petstock.com.au/images/cache/product_browse/images/products/59c9eb810bd755.16670049.jpeg",
+      "salePrice": "84.00",
+      "retailPrice": "$99.99",
+      "category": "puppy",
+      "saleimg":"https://www.petstock.com.au/images/promotional-discounts/5bea604819b982.76646425.png"
+
+    },
+    {
+      "sku": "64283",
+      "name": "View Prime100 Zero-G - Kangaroo Lentil Turmeric Senior Adult Dog Food - Weight Management",
+      "href": "https://www.petstock.com.au/product/dog/prime100-zero-g-kangaroo-lentil-turmeric-senior-adult-dog-food-weight-management/64283",
+      "img": "https://www.petstock.com.au/images/promotional-discounts/5bea604819b982.76646425.png",
+      "salePrice": "84.00",
+      "retailPrice": "$99.99",
+      "category": "adult",
+      "saleimg":"https://www.petstock.com.au/images/promotional-discounts/5bea604819b982.76646425.png"
+
+    },
+    {
+      "sku": "64282",
+      "name": "View Prime100 Zero-G - Kangaroo Lentil Turmeric Senior Adult Dog Food - Weight Management",
+      "href": "https://www.petstock.com.au/product/dog/prime100-zero-g-kangaroo-lentil-turmeric-senior-adult-dog-food-weight-management/64282",
+      "img": "https://www.petstock.com.au/images/cache/product_browse/images/products/59c9eb810bd755.16670049.jpeg",
+      "salePrice": "",
+      "retailPrice": "$99.99",
+      "category": "adult",
+      "saleimg":""
+
+    },
+    {
+      "sku": "51251",
+      "name": "View Supercoat Smartblend Adult Chicken Dry Dog Food",
+      "href": "https://www.petstock.com.au/product/dog/supercoat-smartblend-adult-chicken-dry-dog-food/51251",
+      "img": "https://www.petstock.com.au/images/cache/product_browse/images/products/59c9eb810bd755.16670049.jpeg",
+      "salePrice": "84.00",
+      "retailPrice": "$99.99",
+      "category": "adult",
+      "saleimg":"https://www.petstock.com.au/images/promotional-discounts/5bea604819b982.76646425.png"
+
+    },
+    {
+      "sku": "64293",
+      "name": "View Prime100 Zero-G Chicken Lentil Turmeric - Puppy 2.2KG",
+      "href": "https://www.petstock.com.au/product/dog/prime100-zero-g-chicken-lentil-turmeric-puppy-2-2kg/64293",
+      "img": "https://www.petstock.com.au/images/cache/product_browse/images/products/59c9eb7beaeb01.37998812.jpeg",
+      "salePrice": "84.00",
+      "retailPrice": "$99.99",
+      "category": "puppy",
+      "saleimg":"https://www.petstock.com.au/images/promotional-discounts/5bea604819b982.76646425.png"
+
+    },
+    {
+      "sku": "51359",
+      "name": "View Supercoat Smartblend Adult Chicken Dry Dog Food",
+      "href": "https://www.petstock.com.au/product/dog/supercoat-smartblend-adult-chicken-dry-dog-food/51359",
+      "img": "https://www.petstock.com.au/images/cache/product_browse/images/products/59c9eb7beaeb01.37998812.jpeg",
+      "salePrice": "84.00",
+      "retailPrice": "$99.99",
+      "category": "adult",
+      "saleimg":"https://www.petstock.com.au/images/promotional-discounts/5bea604819b982.76646425.png"
+
+    },
+    {
+      "sku": "60101",
+      "name": "View Royal Canin - Adult Maxi - Large Breed - Dry Dog Food",
+      "href": "https://www.petstock.com.au/product/dog/royal-canin-adult-maxi-large-breed-dry-dog-food/60101",
+      "img": "https://www.petstock.com.au/images/promotional-discounts/5bea604819b982.76646425.png",
+      "salePrice": "",
+      "retailPrice": "$99.99",
+      "category": "adult",
+      "saleimg":""
+
+    },
+    {
+      "sku": "49087",
+      "name": "View Royal Canin - Adult Maxi - Large Breed - Dry Dog Food",
+      "href": "https://www.petstock.com.au/product/dog/royal-canin-adult-maxi-large-breed-dry-dog-food/49087",
+      "img": "https://www.petstock.com.au/images/cache/product_browse/images/products/59c9eb7beaeb01.37998812.jpeg",
+      "salePrice": "84.00",
+      "retailPrice": "$99.99",
+      "category": "adult",
+      "saleimg":"https://www.petstock.com.au/images/promotional-discounts/5bea604819b982.76646425.png"
+
+    },
+    {
+      "sku": "54571",
+      "name": "View Black Hawk Lamb and Rice Adult Dry Dog Food",
+      "href": "https://www.petstock.com.au/product/dog/black-hawk-lamb-and-rice-adult-dry-dog-food/54571",
+      "img": "https://www.petstock.com.au/images/cache/product_browse/images/products/59c9eb810bd755.16670049.jpeg",
+      "salePrice": "84.00",
+      "retailPrice": "$99.99",
+      "category": "adult",
+      "saleimg":"https://www.petstock.com.au/images/promotional-discounts/5bea604819b982.76646425.png"
+
+    },
+    {
+      "sku": "54574",
+      "name": "View Black Hawk Chicken and Rice Adult Dry Dog Food",
+      "href": "https://www.petstock.com.au/product/dog/black-hawk-chicken-and-rice-adult-dry-dog-food/54574",
+      "img": "https://www.petstock.com.au/images/cache/product_browse/images/products/59c9eb7beaeb01.37998812.jpeg",
+      "salePrice": "84.00",
+      "retailPrice": "$99.99",
+      "category": "adult",
+      "saleimg":"https://www.petstock.com.au/images/promotional-discounts/5bea604819b982.76646425.png"
+
+    },
+    {
+      "sku": "51205",
+      "name": "View Supercoat Smartblend Adult Large Breed Chicken Dry Dog Food",
+      "href": "https://www.petstock.com.au/product/dog/supercoat-smartblend-adult-large-breed-chicken-dry-dog-food/51205",
+      "img": "https://www.petstock.com.au/images/cache/product_browse/images/products/59c9eb7beaeb01.37998812.jpeg",
+      "salePrice": "84.00",
+      "retailPrice": "$99.99",
+      "category": "adult",
+      "saleimg":"https://www.petstock.com.au/images/promotional-discounts/5bea604819b982.76646425.png"
+
+    },
+    {
+      "sku": "55017",
+      "name": "View Eukanuba Adult Large Breed Dry Dog Food  15kg",
+      "href": "https://www.petstock.com.au/product/dog/eukanuba-adult-large-breed-dry-dog-food-15kg/55017",
+      "img": "https://www.petstock.com.au/images/cache/product_browse/images/products/59c9eb810bd755.16670049.jpeg",
+      "salePrice": "94.00",
+      "retailPrice": "$99.99",
+      "category": "adult",
+      "saleimg":"https://www.petstock.com.au/images/promotional-discounts/5bea604819b982.76646425.png"
+
+    },
+    {
+      "sku": "51229",
+      "name": "View Supercoat Smartblend Large Breed Puppy Chicken Dry Dog Food - 18kg",
+      "href": "https://www.petstock.com.au/product/dog/supercoat-smartblend-large-breed-puppy-chicken-dry-dog-food-18kg/51229",
+      "img": "https://www.petstock.com.au/images/cache/product_browse/images/products/59c9eb7beaeb01.37998812.jpeg",
+      "salePrice": "784.00",
+      "retailPrice": "$99.99",
+      "category": "puppy",
+      "saleimg":"https://www.petstock.com.au/images/promotional-discounts/5bea604819b982.76646425.png"
+
+    },
+    {
+      "sku": "51236",
+      "name": "View Supercoat Smartblend Adult Active Kangaroo Dry Dog Food",
+      "href": "https://www.petstock.com.au/product/dog/supercoat-smartblend-adult-active-kangaroo-dry-dog-food/51236",
+      "img": "https://www.petstock.com.au/images/cache/product_browse/images/products/59c9eb7beaeb01.37998812.jpeg",
+      "salePrice": "84.00",
+      "retailPrice": "$99.99",
+      "category": "adult",
+      "saleimg":"https://www.petstock.com.au/images/promotional-discounts/5bea604819b982.76646425.png"
+
+    },
+    {
+      "sku": "51216",
+      "name": "View Supercoat Smartblend Adult Beef Dry Dog Food",
+      "href": "https://www.petstock.com.au/product/dog/supercoat-smartblend-adult-beef-dry-dog-food/51216",
+      "img": "https://www.petstock.com.au/images/cache/product_browse/images/products/59c9eb7beaeb01.37998812.jpeg",
+      "salePrice": "84.00",
+      "retailPrice": "$99.99",
+      "category": "adult",
+      "saleimg":"https://www.petstock.com.au/images/promotional-discounts/5bea604819b982.76646425.png"
+
+    },
+    {
+      "sku": "51223",
+      "name": "View Supercoat Smartblend Puppy Chicken Dry Dog Food",
+      "href": "https://www.petstock.com.au/product/dog/supercoat-smartblend-puppy-chicken-dry-dog-food/51223",
+      "img": "https://www.petstock.com.au/images/cache/product_browse/images/products/59c9eb7beaeb01.37998812.jpeg",
+      "salePrice": "84.00",
+      "retailPrice": "$99.99",
+      "category": "puppy",
+      "saleimg":"https://www.petstock.com.au/images/promotional-discounts/5bea604819b982.76646425.png"
+
+    },
+    {
+      "sku": "54602",
+      "name": "View Black Hawk Chicken and Rice Adult Dry Dog Food",
+      "href": "https://www.petstock.com.au/product/dog/black-hawk-chicken-and-rice-adult-dry-dog-food/54602",
+      "img": "https://www.petstock.com.au/images/cache/product_browse/images/products/59c9eb7beaeb01.37998812.jpeg",
+      "salePrice": "84.00",
+      "retailPrice": "$99.99",
+      "category": "adult",
+      "saleimg":"https://www.petstock.com.au/images/promotional-discounts/5bea604819b982.76646425.png"
+
+    },
+    {
+      "sku": "54581",
+      "name": "View Black Hawk Lamb and Rice Dry Puppy Food",
+      "href": "https://www.petstock.com.au/product/dog/black-hawk-lamb-and-rice-dry-puppy-food/54581",
+      "img": "https://www.petstock.com.au/images/cache/product_browse/images/products/59c9eb7beaeb01.37998812.jpeg",
+      "salePrice": "84.00",
+      "retailPrice": "$99.99",
+      "category": "puppy",
+      "saleimg":"https://www.petstock.com.au/images/promotional-discounts/5bea604819b982.76646425.png"
+
+    },
+    {
+      "sku": "54637",
+      "name": "View Black Hawk Large Breed Dry Puppy Food - Chicken & Rice",
+      "href": "https://www.petstock.com.au/product/dog/black-hawk-large-breed-dry-puppy-food-chicken-rice/54637",
+      "img": "https://www.petstock.com.au/images/cache/product_browse/images/products/59c9eb7beaeb01.37998812.jpeg",
+      "salePrice": "",
+      "retailPrice": "$99.99",
+      "category": "puppy",
+      "saleimg":""
+
+    },
+    {
+      "sku": "54687",
+      "name": "View CANIDAE Grain Free PURE Sea Adult Dog - Salmon",
+      "href": "https://www.petstock.com.au/product/dog/canidae-grain-free-pure-sea-adult-dog-salmon/54687",
+      "img": "https://www.petstock.com.au/images/promotional-discounts/59cc9a2fe4e668.51448377.png",
+      "salePrice": "84.00",
+      "retailPrice": "$99.99",
+      "category": "adult",
+      "saleimg":"https://www.petstock.com.au/images/promotional-discounts/5bea604819b982.76646425.png"
+
+    },
+    {
+      "sku": "54578",
+      "name": "View Black Hawk Fish and Potato Adult Dry Dog Food",
+      "href": "https://www.petstock.com.au/product/dog/black-hawk-fish-and-potato-adult-dry-dog-food/54578",
+      "img": "https://www.petstock.com.au/images/cache/product_browse/images/products/59c9eb7beaeb01.37998812.jpeg",
+      "salePrice": "44.00",
+      "retailPrice": "$99.99",
+      "category": "adult",
+      "saleimg":"https://www.petstock.com.au/images/promotional-discounts/5bea604819b982.76646425.png"
+
+    },
+    {
+      "sku": "54598",
+      "name": "View Black Hawk Lamb and Rice Adult Dry Dog Food",
+      "href": "https://www.petstock.com.au/product/dog/black-hawk-lamb-and-rice-adult-dry-dog-food/54598",
+      "img": "https://www.petstock.com.au/images/cache/product_browse/images/products/59c9eb810bd755.16670049.jpeg",
+      "salePrice": "84.00",
+      "retailPrice": "$99.99",
+      "category": "adult",
+      "saleimg":"https://www.petstock.com.au/images/promotional-discounts/5bea604819b982.76646425.png"
+
+    },
+    {
+      "sku": "50534",
+      "name": "View OPTIMUM Adult Large Breed Chicken 15kg",
+      "href": "https://www.petstock.com.au/product/dog/optimum-adult-large-breed-chicken-15kg/50534",
+      "img": "https://www.petstock.com.au/images/cache/product_browse/images/products/59c9ea2a5804b6.54789811.jpeg",
+      "salePrice": "64.00",
+      "retailPrice": "$99.99",
+      "category": "adult",
+      "saleimg":"https://www.petstock.com.au/images/promotional-discounts/5bea604819b982.76646425.png"
+
+    },
+    {
+      "sku": "51195",
+      "name": "View Supercoat Smartblend Adult Healthy Weight Chicken Dry Dog Food",
+      "href": "https://www.petstock.com.au/product/dog/supercoat-smartblend-adult-healthy-weight-chicken-dry-dog-food/51195",
+      "img": "https://www.petstock.com.au/images/cache/product_browse/images/products/59c9ea4aae5c76.11676200.jpeg",
+      "salePrice": "74.00",
+      "retailPrice": "$99.99",
+      "category": "adult",
+      "saleimg":"https://www.petstock.com.au/images/promotional-discounts/5bea604819b982.76646425.png"
+
+    },
+    {
+      "sku": "60094",
+      "name": "View Supercoat Smartblend Adult Sensitive Fish Dry Dog Food",
+      "href": "https://www.petstock.com.au/product/dog/supercoat-smartblend-adult-sensitive-fish-dry-dog-food/60094",
+      "img": "https://www.petstock.com.au/images/cache/product_browse/images/products/59c9ea523a9da8.09657844.jpeg",
+      "salePrice": "34.00",
+      "retailPrice": "$99.99",
+      "category": "adult",
+      "saleimg":"https://www.petstock.com.au/images/promotional-discounts/5bea604819b982.76646425.png"
+
+    }
+  ]
+}
