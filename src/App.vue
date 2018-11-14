@@ -44,8 +44,7 @@
          selectedCategory: 'ALL',
          sortOrder: null,
          size:response.products.length,
-         salePrice:response.products.salePrice,
-         baseUrl:'./public/favicon.ico'
+         salePrice:response.products.salePrice
        };
      },
      computed: {
@@ -106,6 +105,7 @@
    body {
    font: 14px Helvetica, Sans-Serif; line-height: 24px; color: #a6a6a6;
    background: #fff ;
+   height:100%;
    }
 
   
